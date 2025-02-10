@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded",()=>
                 navbar.style.boxShadow = "0 4px 10px rgba(0, 0, 0, 0.3)";
                 gridContainer.style.transform = "translateY(20px)"; // Move grid slightly down
             } else {
-                navbar.style.backgroundImage ="url(./Ai3.png)";
+                navbar.style.backgroundImage ="url(images/Ai3.png)";
                 navbar.style.backgroundColor='#00268B';
                 navbar.style.backgroundSize = "50%";
                 navbar.style.backgroundRepeat = "no-repeat";
