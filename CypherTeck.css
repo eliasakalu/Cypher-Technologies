@@ -1,10 +1,10 @@
 @font-face {
-    font-family: PoppinBold
+    font-family: "PoppinBold"
     ;
     src: url(font/Poppins-Bold.ttf);
 }
 @font-face {
-    font-family: PoppinReg
+    font-family: "PoppinReg"
     ;
     src: url(font/Poppins-Regular.ttf);
 }
