@@ -1,12 +1,12 @@
 @font-face {
     font-family: PoppinBold
     ;
-    src: url(./Poppins-Bold.ttf);
+    src: url(font/Poppins-Bold.ttf);
 }
 @font-face {
     font-family: PoppinReg
     ;
-    src: url(./Poppins-Regular.ttf);
+    src: url(font/Poppins-Regular.ttf);
 }
 body
 {
@@ -15,7 +15,7 @@ body
 .header
 {
     background-color:#00268B;/*#3c59de or #006AF2*/
-    background-image: url(./Ai3.png);
+    background-image: url(image/Ai3.png);
     background-size: 50%;
     background-repeat: no-repeat;
     background-position: center;
